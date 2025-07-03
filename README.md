@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timothyks
-- 👀 I’m interested in computer programming in general.
-- 🌱 I’m currently learning JavaScript and learning to use Python in VEX V5.
+- 👀 I like computer science and stuff
+- 🌱 I made a silly game about balls on Roblox. Check it out using this link: https://www.roblox.com/games/18594754228
 
 <!---
 timothyks/timothyks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
